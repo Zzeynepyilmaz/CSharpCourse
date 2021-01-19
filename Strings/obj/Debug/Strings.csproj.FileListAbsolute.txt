@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpCourse\Strings\bin\Debug\Strings.exe.config
+C:\Users\PC\source\repos\CSharpCourse\Strings\bin\Debug\Strings.exe
+C:\Users\PC\source\repos\CSharpCourse\Strings\bin\Debug\Strings.pdb
+C:\Users\PC\source\repos\CSharpCourse\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpCourse\Strings\obj\Debug\Strings.exe
+C:\Users\PC\source\repos\CSharpCourse\Strings\obj\Debug\Strings.pdb
